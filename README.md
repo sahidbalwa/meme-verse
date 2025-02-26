@@ -3,7 +3,7 @@
 
 Welcome to **MemeVerse**, a multi-page, highly interactive web application where users can explore, upload, and engage with memes. Built with modern frontend technologies, this project brings the dankest corners of the internet to life with smooth animations and a user-friendly experience.
 
-**[Live Demo](https://meme-verse-11.vercel.app)** *(Replace with your Vercel URL after deployment, e.g., `https://meme-verse-11.vercel.app`)*
+**[Live Demo](https://meme-verse-11.vercel.app)** *`https://meme-verse-11.vercel.app`*
 
 ---
 
