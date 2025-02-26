@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Poppins:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+:root {
+  --primary: #1c1b1b; /* 60% black */
+  --secondary: #Ffffff; /* 30% white */
+}
+
+[data-theme="light"] {
+  --primary: #FBF7BA; /* 60% white */
+  --secondary: #000000; /* 30% black */
+}
+
+body {
+  background-color: var(--primary);
+  color: var(--secondary);
+  font-family: 'Poppins', sans-serif; /* Default font */
+}
+
+/* h1, h2, h3, h4, h5, h6 {
+  font-family:  "Spicy Rice", serif;
+  font-weight: 400;
+  font-style: normal;
+} */
+
+.spicy-rice-regular {
+  font-family: "Spicy Rice", serif;
+  font-weight: 400;
+  font-style: normal;
+}
